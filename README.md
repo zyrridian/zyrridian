@@ -28,7 +28,7 @@
 <a href="https://twitter.com/zyrridian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyrridian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rezkyaditiafauzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezkyaditiafauzan" height="30" width="40" /></a>
 <a href="https://medium.com/@zyrridian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zyrridian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zyrridian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zyrridian" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zyrridian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zyrridian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
