@@ -98,6 +98,21 @@
 
 <br><p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p></br>
 
+<table align="center">
+  <tr>
+    <td align="center" width="96"><br><br><br></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
+
 <h2 align="center">Github Stats</h2>
   
 <p align="center">
