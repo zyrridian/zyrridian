@@ -8,11 +8,11 @@
 
 - 🤝 I’m looking to collaborate with a (pixel art) **designer** on [My Indie Games](https://itch.io/profile/zyrridian)
 
-- 📝 I also write articles about [Tech](https://medium.com/@zyrridian) and [Useless Knowledge](https://zyrridian.blogspot.com) that won't necessarily improve your life.
+- 📝 I also write articles about [Tech](https://medium.com/@zyrridian) and [Useless Knowledge](https://zyrridian.blogspot.com) that won't necessarily improve your life
 
 - 👨‍💻 All of my important links are available at [https://linktr.ee/rezkyaditiafauzan](https://linktr.ee/rezkyaditiafauzan)
 
-- 📫 You can reach me via **email** at rezkyaf246@gmail.com or DM me on **Discord** at @zkylab.
+- 📫 You can reach me via **email** at rezkyaf246@gmail.com or DM me on **Discord** at @zkylab
 
 - ⚡ Fun fact **I think I know you**
 
