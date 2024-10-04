@@ -2,7 +2,6 @@
 <h3 align="left">An android developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyrridian&label=Profile%20views&color=0e75b6&style=flat" alt="zyrridian" /> </p>
 
-
 - 🔭 I’m currently working on [ZkyLab Projects](undefined)
 
 - 🌱 I’m currently learning **Kotlin & Flutter**
@@ -41,8 +40,28 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyrridian&show_icons=true&locale=en&layout=compact" alt="zyrridian" /></p>
+## Github Stats:
+<p align="center">
+  <a href="https://github.com/zyrridian">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zyrridian&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zyrridian&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/tayyabadev">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=zyrridian&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
+ <p align="center">
+   <a href="https://github.com/zyrridian"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=zyrridian&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyrridian&show_icons=true&locale=en" alt="zyrridian" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyrridian&theme=default" alt="zyrridian" /></p>
+<div id="header" align="center">
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyrridian" alt="zyrridian" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!--   <img src="https://komarev.com/ghpvc/?username=zyrridian&style=for-the-badge&color=orange" alt=""/> -->
+</div>
