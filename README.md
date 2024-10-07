@@ -109,16 +109,29 @@
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
     <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
   </tr>
 </table>
+
+<div align=center">  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
 
 <h2 align="center">Github Stats</h2>
   
 <p align="center">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=zyrridian&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyrridian&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyrridian&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=zyrridian&show_icons=true&count_private=true&title_color=FF7000&text_color=000000&icon_color=0366D3&hide_border=true&bg_color=00000000">
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyrridian&layout=compact&hide_border=true&title_color=FF7000&text_color=000000&icon_color=0366D3&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zyrridian&title_color=FF7000&text_color=000000&icon_color=0366D3&hide_border=true&background=FFFFFF00">
 </p>
 
 <br>
