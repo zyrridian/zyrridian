@@ -87,12 +87,6 @@
       </a>
       <br>Javascript
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
   </tr>
 </table>
 
