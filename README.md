@@ -64,5 +64,5 @@
 
 <div id="header" align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=zyrridian&row=1" alt="zyrridian" /></a> </p><br>
-  <img src="https://komarev.com/ghpvc/?username=zyrridian&style=for-the-badge&color=orange" alt=""/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=zyrridian&style=for-the-badge&color=orange" alt=""/> -->
 </div>
